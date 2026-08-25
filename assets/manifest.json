@@ -1,0 +1,285 @@
+{
+  "assets": [
+    {
+      "contentType": "image/png",
+      "id": "82395782fff9a1ad",
+      "kind": "image",
+      "name": "logo_small.png",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\82395782fff9a1ad.png",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/logo/logo_small.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8430a9cf95622e2a",
+      "kind": "image",
+      "name": "1ST%20OPTION.jpeg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\8430a9cf95622e2a.jpeg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/1ST%20OPTION.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b101cc47d9a408da",
+      "kind": "image",
+      "name": "glades.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\b101cc47d9a408da.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/projects/featured/glades.jpg?v=1"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c3118d5602e36097",
+      "kind": "image",
+      "name": "setia.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\c3118d5602e36097.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/projects/featured/setia.jpg?v=1"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "9ee5b83deca8df08",
+      "kind": "image",
+      "name": "isle.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\9ee5b83deca8df08.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/projects/featured/isle.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e997647e146e55e4",
+      "kind": "image",
+      "name": "amaya.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\e997647e146e55e4.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/projects/subsale/amaya.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f3738c530a2cd423",
+      "kind": "image",
+      "name": "sejati.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\f3738c530a2cd423.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/projects/subsale/sejati.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "702f0bde6a46d98d",
+      "kind": "image",
+      "name": "botanica.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\702f0bde6a46d98d.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/projects/subsale/botanica.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8446c373616449f8",
+      "kind": "image",
+      "name": "sejati2.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\8446c373616449f8.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/projects/subsale/sejati2.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "326a0bc9d01185c8",
+      "kind": "image",
+      "name": "residential.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\326a0bc9d01185c8.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/residential.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "302c3e90cf9187bc",
+      "kind": "image",
+      "name": "commercial.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\302c3e90cf9187bc.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/commercial.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "16be62ad8016a361",
+      "kind": "image",
+      "name": "1.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\16be62ad8016a361.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/award/1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "918f396ae8a07ed3",
+      "kind": "image",
+      "name": "2.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\918f396ae8a07ed3.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/award/2.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c4eaace2bb2b9164",
+      "kind": "image",
+      "name": "luxury.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\c4eaace2bb2b9164.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/luxury.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f761d22a0090976f",
+      "kind": "image",
+      "name": "3.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\f761d22a0090976f.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/award/3.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1817294951aced5c",
+      "kind": "image",
+      "name": "5.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\1817294951aced5c.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/award/5.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "804b559417b6386a",
+      "kind": "image",
+      "name": "4.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\804b559417b6386a.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/award/4.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ab08998727e2a124",
+      "kind": "image",
+      "name": "1.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\ab08998727e2a124.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7df5ea78e4b2dce5",
+      "kind": "image",
+      "name": "3.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\7df5ea78e4b2dce5.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/3.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d73fec51131e4e9a",
+      "kind": "image",
+      "name": "2.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\d73fec51131e4e9a.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/2.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3bba2efa8837ac60",
+      "kind": "image",
+      "name": "8.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\3bba2efa8837ac60.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/award/8.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b10c8adff847ac31",
+      "kind": "image",
+      "name": "6.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\b10c8adff847ac31.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/award/6.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "979c5563ae23c190",
+      "kind": "image",
+      "name": "7.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\979c5563ae23c190.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/award/7.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "6ce7ff0f2a7605e9",
+      "kind": "image",
+      "name": "5.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\6ce7ff0f2a7605e9.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/5.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4e63590ebbfed445",
+      "kind": "image",
+      "name": "4.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\4e63590ebbfed445.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/4.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3fa6d78877ba5b33",
+      "kind": "image",
+      "name": "6.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\3fa6d78877ba5b33.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/6.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "c7b2a686eca0c169",
+      "kind": "image",
+      "name": "whatsapp.png",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\c7b2a686eca0c169.png",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/whatsapp.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "936e01b5466079e0",
+      "kind": "image",
+      "name": "10.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\936e01b5466079e0.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/10.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "53ae0e90cc77e4e0",
+      "kind": "image",
+      "name": "7.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\53ae0e90cc77e4e0.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/7.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c6f1d4335fdbda06",
+      "kind": "image",
+      "name": "8.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\c6f1d4335fdbda06.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/8.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e01f226cb21b0ad8",
+      "kind": "image",
+      "name": "13.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\e01f226cb21b0ad8.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/13.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "42a68bf77d7663a3",
+      "kind": "image",
+      "name": "11.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\42a68bf77d7663a3.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/11.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c09a107cba1ab53c",
+      "kind": "image",
+      "name": "9.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\c09a107cba1ab53c.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/9.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1264e5c57ce8a77d",
+      "kind": "image",
+      "name": "12.jpg",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\1264e5c57ce8a77d.jpg",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/custom/SHI-CLIENT%20FEEDBACK/12.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "aedbcd782c2443e8",
+      "kind": "image",
+      "name": "logo_propstamp.png",
+      "path": "C:\\Users\\Hp\\AppData\\Local\\Temp\\browser-use\\assets\\29d47233-a318-44d8-9293-e6b9459ed529\\aedbcd782c2443e8.png",
+      "url": "https://inshirah.cyberjayaproperty.my/assets/images/logo/logo_propstamp.png"
+    }
+  ],
+  "failures": []
+}
