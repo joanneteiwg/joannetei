@@ -1,0 +1,14 @@
+.featured-project-spotlight{padding:42px 0 12px}
+.featured-project-link{position:relative;display:grid;grid-template-columns:1.15fr .85fr;min-height:310px;overflow:hidden;border:1px solid rgba(215,243,68,.5);border-radius:26px;background:#171914;box-shadow:0 20px 55px rgba(0,0,0,.32);transition:transform .3s,border-color .3s,box-shadow .3s}
+.featured-project-link:hover{transform:translateY(-5px);border-color:var(--lime);box-shadow:0 24px 64px rgba(0,0,0,.42),0 0 24px rgba(215,243,68,.16)}
+.featured-project-link img{width:100%;height:100%;min-height:310px;object-fit:cover}
+.featured-project-copy{display:flex;flex-direction:column;justify-content:center;padding:38px;background:radial-gradient(circle at 100% 0,rgba(215,243,68,.12),transparent 44%)}
+.featured-project-copy .eyebrow{margin-bottom:10px}
+.featured-project-copy h3{margin:0 0 14px;font-size:clamp(2.15rem,4vw,4rem);line-height:.92;letter-spacing:-.055em;color:var(--cream)}
+.featured-project-copy h3 span{color:var(--lime)}
+.featured-project-copy p{margin:0 0 22px;color:var(--muted);font-size:.9rem;line-height:1.7}
+.featured-project-highlights{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px}
+.featured-project-highlights span{padding:7px 11px;border:1px solid var(--line);border-radius:99px;color:#e9eadf;font-size:.68rem;font-weight:600}
+.featured-project-cta{display:inline-flex;align-items:center;gap:10px;color:var(--lime);font-weight:800;font-size:.82rem;text-transform:uppercase;letter-spacing:.08em}
+@media(max-width:850px){.featured-project-link{grid-template-columns:1fr 1fr;min-height:330px}.featured-project-link img{min-height:330px}.featured-project-copy{padding:26px 22px}.featured-project-copy h3{font-size:clamp(2rem,6vw,3rem)}.featured-project-copy p{font-size:.78rem;line-height:1.55}.featured-project-highlights{margin-bottom:18px}.featured-project-highlights span{font-size:.6rem;padding:6px 8px}}
+@media(max-width:560px){.featured-project-link{grid-template-columns:1fr}.featured-project-link img{min-height:230px;max-height:300px}.featured-project-copy{padding:28px 24px}.featured-project-copy p{font-size:.86rem}.featured-project-highlights span{font-size:.66rem}}
