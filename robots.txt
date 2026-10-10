@@ -22,4 +22,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://cyberjayaproperties.my/sitemap.xml
+Sitemap: https://www.cyberjayaproperties.my/sitemap.xml
