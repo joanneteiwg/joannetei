@@ -21,7 +21,7 @@
         const slide = document.createElement('div');
         slide.className = 'slide';
         slide.innerHTML = `<article class="project">
-          <img src="${escapeHtml(listing.image)}" alt="${escapeHtml(listing.title)}" loading="lazy">
+          <img src="${escapeHtml(listing.image)}" alt="${escapeHtml(listing.title)}" loading="lazy" onerror="this.onerror=null;this.src='../assets/futuristic-property-hero.jpg'">
           <div class="project-body">
             <div class="meta">${listing.type === 'rent' ? 'Rent' : 'Sale'} ${escapeHtml(listing.price)}</div>
             <h3>${escapeHtml(listing.title)}</h3>

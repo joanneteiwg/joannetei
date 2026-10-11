@@ -42,5 +42,20 @@ const listings = live.map((card) => {
   };
 });
 
+const usablePhotos = listings.filter((listing) => !listing.image.includes("image-fallback.svg") && !listing.image.includes("futuristic-property-hero"));
+const photosByType = new Map();
+for (const listing of usablePhotos) {
+  const key = listing.propertyType.toLowerCase();
+  const photos = photosByType.get(key) || [];
+  photos.push(listing.image);
+  photosByType.set(key, photos);
+}
+let fallbackIndex = 0;
+for (const listing of listings) {
+  if (!listing.image.includes("image-fallback.svg") && !listing.image.includes("futuristic-property-hero")) continue;
+  const matching = photosByType.get(listing.propertyType.toLowerCase()) || usablePhotos.map((item) => item.image);
+  listing.image = matching.length ? matching[fallbackIndex++ % matching.length] : "assets/futuristic-property-hero.jpg";
+}
+
 await writeFile("listings-data.js", `window.IPROPERTY_LISTINGS=${JSON.stringify(listings)};\n`, "utf8");
 console.log(`Built ${listings.length} listings: ${listings.filter((x) => x.type === "sale").length} sale, ${listings.filter((x) => x.type === "rent").length} rent.`);
