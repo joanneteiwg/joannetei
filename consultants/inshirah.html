@@ -50,4 +50,4 @@ document.querySelectorAll('[data-carousel]').forEach((carousel)=>{const track=ca
 const testimonialNext=document.querySelector('#testimonials [data-next]');setInterval(()=>testimonialNext?.click(),4500);
 document.getElementById('contactForm').addEventListener('submit',e=>{e.preventDefault();const d=new FormData(e.currentTarget),msg=`Hi Inshirah, I'm ${d.get('name')}. Phone: ${d.get('phone')}. Email: ${d.get('email')||'-'}. ${d.get('message')}`;open(`https://wa.me/60125909830?text=${encodeURIComponent(msg)}`,'_blank')});
 </script>
-<script src="../listings-data.js"></script><script src="../consultant-listings.js"></script></body></html>
+<script src="../listings-data.js?v=19e35d4"></script><script src="../consultant-listings.js?v=19e35d4"></script></body></html>
