@@ -27,7 +27,7 @@
             <h3>${escapeHtml(listing.title)}</h3>
             <p>${escapeHtml(listing.details)}</p>
             <div class="property-specs"><div class="property-spec">Property type<strong>${escapeHtml(listing.propertyType)}</strong></div></div>
-            <a class="btn" href="${escapeHtml(listing.url)}" target="_blank" rel="noopener">View active listing</a>
+            <a class="btn" href="${escapeHtml(listing.internalUrl)}">View listing</a>
           </div>
         </article>`;
         page.appendChild(slide);
@@ -50,6 +50,6 @@
   const saleCount = listings.filter((listing) => listing.type === 'sale').length;
   const rentCount = listings.filter((listing) => listing.type === 'rent').length;
   document.querySelectorAll('[data-listing-sync-note]').forEach((note) => {
-    note.innerHTML = `<strong>${listings.length} active iProperty listings</strong> — ${saleCount} for sale and ${rentCount} for rent. <a href="/listings.html" style="color:var(--lime)">View the full live portfolio &#8599;</a>`;
+    note.innerHTML = `<strong>${listings.length} current property listings</strong> — ${saleCount} for sale and ${rentCount} for rent. <a href="/listings.html" style="color:var(--lime)">View all listings →</a>`;
   });
 }());
